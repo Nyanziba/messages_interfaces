@@ -1,0 +1,6 @@
+# Request
+sensor_msgs/Image rgb
+sensor_msgs/Image depth
+---
+# Response
+std_msgs/String result
